@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jtlshopplugin>
+    <Name>Landswitcher</Name>
+    <Author>Sergey Pashin</Author>
+    <XMLVersion>100</XMLVersion>
+    <ShopVersion>5.0.1</ShopVersion>
+    <Icon>preview.png</Icon>
+    <PluginID>landswitcher</PluginID>
+    <CreateDate>2021-06-20</CreateDate>
+    <Version>1.0.0</Version>
+    <Install>
+        <Adminmenu>
+            <Customlink sort="1">
+                <Name>Settings</Name>
+            </Customlink>
+        </Adminmenu>
+    </Install>
+</jtlshopplugin>
